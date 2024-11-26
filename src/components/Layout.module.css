@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh; 
+    width: 100%;
+    margin: 0 auto;
+}
+
+main {
+    flex-grow: 1; 
+}
+
+.hd {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 50px;
+    justify-content: space-between;
+    height: 80px;
+    background-color: #000000;
+}
+
+.menu {
+    display: flex;
+}
+.mTitle {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 20px;
+}
+
+.ftr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding-bottom: 50px;
+}
