@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/spa-salon/static/css/main.f855e6bc.css",
-    "main.js": "/spa-salon/static/js/main.acefe951.js",
+    "main.css": "/spa-salon/static/css/main.364f83ce.css",
+    "main.js": "/spa-salon/static/js/main.ef03e7ec.js",
     "static/js/453.ce906fc7.chunk.js": "/spa-salon/static/js/453.ce906fc7.chunk.js",
-    "static/media/logo.svg": "/spa-salon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/spa-salon/index.html",
-    "main.f855e6bc.css.map": "/spa-salon/static/css/main.f855e6bc.css.map",
-    "main.acefe951.js.map": "/spa-salon/static/js/main.acefe951.js.map",
+    "main.364f83ce.css.map": "/spa-salon/static/css/main.364f83ce.css.map",
+    "main.ef03e7ec.js.map": "/spa-salon/static/js/main.ef03e7ec.js.map",
     "453.ce906fc7.chunk.js.map": "/spa-salon/static/js/453.ce906fc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.acefe951.js"
+    "static/css/main.364f83ce.css",
+    "static/js/main.ef03e7ec.js"
   ]
 }
