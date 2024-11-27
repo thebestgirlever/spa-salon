@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spa-salon/static/css/main.364f83ce.css",
-    "main.js": "/spa-salon/static/js/main.ef03e7ec.js",
+    "main.js": "/spa-salon/static/js/main.020d42f4.js",
     "static/js/453.ce906fc7.chunk.js": "/spa-salon/static/js/453.ce906fc7.chunk.js",
     "index.html": "/spa-salon/index.html",
     "main.364f83ce.css.map": "/spa-salon/static/css/main.364f83ce.css.map",
-    "main.ef03e7ec.js.map": "/spa-salon/static/js/main.ef03e7ec.js.map",
+    "main.020d42f4.js.map": "/spa-salon/static/js/main.020d42f4.js.map",
     "453.ce906fc7.chunk.js.map": "/spa-salon/static/js/453.ce906fc7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.364f83ce.css",
-    "static/js/main.ef03e7ec.js"
+    "static/js/main.020d42f4.js"
   ]
 }
