@@ -7,7 +7,7 @@ import ProductList from './components/ProductList';
 
 function App() {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/spa-salon">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<ProductList />} />
