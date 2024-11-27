@@ -1,4 +1,3 @@
-import styles from './App.module.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Layout from './components/Layout';
@@ -8,7 +7,7 @@ import ProductList from './components/ProductList';
 
 function App() {
   return (
-    <BrowserRouter basename="thebestgirlever.github.io/spa-salon">
+    <BrowserRouter basename="/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<ProductList />} />
