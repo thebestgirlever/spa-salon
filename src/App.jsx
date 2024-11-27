@@ -8,7 +8,7 @@ import ProductList from './components/ProductList';
 
 function App() {
   return (
-    <BrowserRouter basename="/spa-salon">
+    <BrowserRouter basename="thebestgirlever.github.io/spa-salon">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<ProductList />} />
